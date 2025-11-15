@@ -3,7 +3,6 @@
 
 
 
-<p align="center">If you want to discuss about something, you can ask on my <a href="https://discord.com/invite/GkcbM5bwZr">Discord Server</a>.</p>
 
 <p align="center"> 
     <a href="https://ashutosh1919.github.io" target="_blank">
